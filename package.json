@@ -2,8 +2,7 @@
   "name": "jscrud",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "dev": "node index.js"
-  }
+  "repository": "https://github.com/Joaopedroaquino/ApiJs.git",
+  "author": "joaopedroaquino <>",
+  "license": "MIT"
 }
