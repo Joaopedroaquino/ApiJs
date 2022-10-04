@@ -65,6 +65,14 @@ obterUsuario(function resolverUsuario(error, usuario ) {
                 return;
             }
 
+            console.log(
+            ` Nome: ${usuario.nome},
+             Telefone: ${usuario.dataNascimento},
+            //  Nome: ${usuario.endereco},
+
+            
+            `)
+
     })
 
 
